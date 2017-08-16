@@ -30,6 +30,5 @@ npm run start
 # Future Changes
 ```
 I would write tests and probably use a better try/catch method or error handling way for the apis because currently improper requests are handled the same way as request errors.
-```
 There could also be code cleanup and I could do more functional programming.
 ```
