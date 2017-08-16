@@ -1,0 +1,22 @@
+{
+  "name": "emailAPI",
+  "version": "1.0.0",
+  "description": "a generic email service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdku5791/emailAPI.git"
+  },
+  "author": "winston ku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdku5791/emailAPI/issues"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
